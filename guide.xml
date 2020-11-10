@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Novo Tempo">
+    <display-name lang="pt">Novo Tempo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Novo Tempo">
+    <display-name lang="pt">TV Novo Tempo</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
